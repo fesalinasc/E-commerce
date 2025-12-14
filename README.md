@@ -96,7 +96,7 @@ Cada ação dispara uma atualização da lista com `mostrarProdutos()`.
 
 
 ---
-## 🤝 Autor
+## 👨‍💻 Autor
 
 **Felipe Salinas Caodaglio**
 
