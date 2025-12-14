@@ -96,5 +96,3 @@ Each action triggers a list update with `showProducts()`.
 ## 👨‍💻 Author
 
 **Felipe Salinas Caodaglio**
-
----
