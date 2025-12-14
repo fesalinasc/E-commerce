@@ -90,17 +90,16 @@ Cada ação dispara uma atualização da lista com `mostrarProdutos()`.
 
 ---
 
-## 🤝 Autor
-
-**Felipe Salinas Caodaglio**
-
----
-
 ## 🇺🇸 (English Version)
 
 ➡️ **([English Version](README.en.md))**
 
 
 ---
+## 🤝 Autor
+
+**Felipe Salinas Caodaglio**
+
+
 
 
